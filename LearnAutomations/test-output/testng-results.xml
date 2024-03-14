@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1621" started-at="2024-03-12T10:13:03Z" finished-at="2024-03-12T10:13:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1621" started-at="2024-03-12T10:13:03Z" finished-at="2024-03-12T10:13:05Z">
+      <class name="org.com.api.NetworkNT">
+        <test-method status="PASS" signature="valitationShema()[pri:0, instance:org.com.api.NetworkNT@61832929]" name="valitationShema" duration-ms="1549" started-at="2024-03-12T15:43:03Z" finished-at="2024-03-12T15:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valitationShema -->
+      </class> <!-- org.com.api.NetworkNT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
